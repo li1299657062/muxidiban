@@ -1,0 +1,271 @@
+.head nav{
+   
+    background: #FFFFFF;
+    border: none;
+    margin-left: 9%;
+    margin-bottom: 0px;
+}
+.head ul li a{
+margin-top: 10px;
+padding: 10px 8px;
+padding-bottom: 25px;
+}
+.head ul li{
+    border-bottom: 2px solid #FFFFFF;
+}
+
+.head ul li:hover{
+    border-bottom: 2px solid #36B13E;    
+}
+
+
+
+@media (min-width:992px){
+.foot2{
+    margin-top: 10px;
+    margin-left: 0px;
+    text-align: center;
+    
+}
+}
+@media (max-width:992){
+
+    .foot2{
+        
+        margin-top: 10px;
+        margin-left: 0px;  
+    }
+}
+.foot2 a{
+    color: #666;
+}
+.foot2 a:hover{
+    color: #2DAE36;
+    text-decoration: none;
+}
+
+.footer {
+    padding-top: 24px;
+    padding-bottom: 16px;
+    box-sizing: border-box;
+    background-color: #ddd;
+    color: #666;
+    margin-top: 50px;
+    
+}
+.foot1 img{
+    margin-top: 10px;
+}
+.index1-qyjs{
+    
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.index1-qyjs div{
+    text-align: center;
+}
+.index1-qyjs div p{
+ color: #919191;
+ font-size: 12px;
+}
+.index2-foot .show{
+margin-left: 0;
+
+}
+
+.index1-qyjs div .index1-qyjsp{
+    color: #2FAE38;
+}
+.index1-qyjs div img{
+    width: 74.19px;
+    height: 74.19px;
+}
+.index1-foot{
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+.index1-foot div{
+    padding-right: 10px;
+}
+.index1-foot div img{
+    height: 90%;
+    width: 96.4%;
+}
+
+.index1-title .show {
+    width: 120px;
+    color: white;
+    font-size: 20px;
+    line-height: 42px;
+    text-align: center;
+    background: #2dae36;
+    border-radius: 16px 0 16px 0;
+    margin-bottom: 0;
+    
+}
+.index1-title{
+margin-top: 50px;
+border-bottom: 1px solid #2dae36;
+width: 98.8%;
+}
+
+.index1-foot img{
+margin-top: 30px;
+}
+
+.index1-foot div{
+    padding: 0px; 
+}
+
+.index2-foot img{
+    margin-top: 30px;
+}
+    
+.index2-foot div{
+    padding: 0px; 
+}
+.index2-foot{
+    
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+.index2-foot div{
+    padding-right: 10px;
+}
+.index2-foot div iframe{
+    margin: 5%;
+    margin-left: 2%;
+    margin-top: 7%;
+}
+.index2-foot p{ 
+    text-indent:25px; 
+    margin: 40px;
+    color: #777777;
+    font-weight: none;
+    font-family:  Arial, sans-serif;
+}
+.index3-foot{
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    
+}
+.index3-foot div{
+    padding: 0px; 
+}
+.index3-foot div img{
+    height: 90%;
+    width: 96%;
+    margin-top: 10px;
+}
+.tab-content{
+    margin-top: 10px;
+}
+.index3-foot-head{
+    margin-top: 20px;
+}
+
+.index4-foot{
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+   
+}
+.index4-foot div{
+    padding: 0px; 
+}
+.index4-img{
+    margin-top: 8%;
+    
+}
+.head .active a span{
+    color: #2FAE38;
+}
+
+.index3-foot .active a span{
+    color: #2FAE38;
+}
+
+.index4-foot1{
+    border-bottom: 1px dashed #2FAE38;
+    padding-bottom: 60px;
+}
+.index4-foot h2{
+    margin-top: 25%;
+    margin-left: 10px;
+}
+.index4-foot .p2{
+    color: #2DAE36;
+    margin-left: 10px;
+    font-size: 18px;
+}
+.index4-foot .p1{
+    margin-top: 10%;
+}
+.index4-foot h4{
+    color: #2DAE36;
+    margin-top: 30px;
+}
+.index4-foot .asd p{
+    text-indent: 30px;
+}
+
+
+
+
+@media (min-width:992px){
+    .index5-p1 p{
+        color: #333333;
+        font-weight: bold;
+        font-size: 28px;
+        margin-top: 15%;
+        margin-left: 50%;
+        }
+        
+        .index5-p2 div{
+         height: 80%;
+         margin-top: 10%;
+         border-left: 1px solid #2DAE36;
+        }
+        
+        .index5-p2 p{
+            margin-left: 10%;
+        
+        }
+    }
+    @media (max-width:992){
+        .index5-p1 p{
+            color: #333333;
+            font-weight: bold;
+            font-size: 28px;
+            margin-top: 20px;
+           
+            }
+            
+            .index5-p2 div{
+             height: 80%;
+             margin-top: 10%;
+            
+            }
+            
+            .index5-p2 p{
+                margin-left: 10%;
+            }
+    }
+
+ 
+
+
+
+
+
+
+
+
+
+
